@@ -4,6 +4,10 @@
   "description": "Zest by Josh",
   "version": "0.0.1",
   "publisher": "CodeTomBomb85",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codetombomb/zest-theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
