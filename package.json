@@ -1,0 +1,22 @@
+{
+  "name": "Zest",
+  "displayName": "Zest (Dark)",
+  "description": "Zest by Josh",
+  "version": "0.0.1",
+  "publisher": "CodeTomBomb85",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZEST🍋",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZEST🍋-color-theme.json"
+      }
+    ]
+  }
+}
