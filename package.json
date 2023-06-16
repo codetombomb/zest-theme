@@ -3,7 +3,8 @@
   "displayName": "Zest (Dark)",
   "description": "Zest by Josh",
   "version": "0.0.1",
-  "publisher": "CodeTomBomb85",
+  "publisher": "CodeTomBomb",
+  "icon": "zestronaut.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/codetombomb/zest-theme"
